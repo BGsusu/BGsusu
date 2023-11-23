@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+
+![BGsusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BGsusu)
 
 <!--
 **BGsusu/BGsusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
