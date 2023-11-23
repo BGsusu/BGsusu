@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,7 +35,7 @@ Python                   2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BGsusu/BGsusu/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 13:41:31 UTC
+ Last Updated on 23/11/2023 13:49:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
