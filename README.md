@@ -7,6 +7,35 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 8 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I Mostly Code in C#** 
+
+```text
+C#                       4 repos             █████████████████░░░░░░░░   66.67 % 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/BGsusu/BGsusu/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/11/2023 13:41:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
