@@ -7,6 +7,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 **🐱 My GitHub Data** 
@@ -48,13 +50,15 @@ Sunday                   21 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████████████   100.00 % 
+Markdown                 23 mins             █████████████████████████   99.35 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
 VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BGsusu                   23 mins             █████████████████████████   100.00 % 
+BGsusu                   23 mins             █████████████████████████   99.35 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
 Windows                  23 mins             █████████████████████████   100.00 % 
@@ -74,7 +78,7 @@ Python                   2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BGsusu/BGsusu/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 00:53:15 UTC
+ Last Updated on 25/11/2023 00:52:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
