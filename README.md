@@ -50,21 +50,16 @@ Sunday                   21 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs               ███████████████████████░░   92.58 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-SSH Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bas_relief               2 hrs 6 mins        ████████████████████████░   97.58 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 6 mins        ████████████████████████░   97.58 % 
-Windows                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -81,7 +76,7 @@ Python                   2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BGsusu/BGsusu/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 00:55:26 UTC
+ Last Updated on 05/12/2023 00:55:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
