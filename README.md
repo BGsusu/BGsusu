@@ -50,16 +50,16 @@ Sunday                   21 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AllData                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -76,7 +76,7 @@ Python                   2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BGsusu/BGsusu/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2023 00:55:31 UTC
+ Last Updated on 09/12/2023 00:53:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
